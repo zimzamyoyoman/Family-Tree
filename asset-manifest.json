@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/family-tree/static/css/main.ffbbcee1.chunk.css",
+    "main.js": "/family-tree/static/js/main.5639fa1d.chunk.js",
+    "main.js.map": "/family-tree/static/js/main.5639fa1d.chunk.js.map",
+    "runtime-main.js": "/family-tree/static/js/runtime-main.336650e1.js",
+    "runtime-main.js.map": "/family-tree/static/js/runtime-main.336650e1.js.map",
+    "static/css/2.69121389.chunk.css": "/family-tree/static/css/2.69121389.chunk.css",
+    "static/js/2.17b89c8a.chunk.js": "/family-tree/static/js/2.17b89c8a.chunk.js",
+    "static/js/2.17b89c8a.chunk.js.map": "/family-tree/static/js/2.17b89c8a.chunk.js.map",
+    "index.html": "/family-tree/index.html",
+    "precache-manifest.0bf9747f75c8fa9e1cd3458e881a87ff.js": "/family-tree/precache-manifest.0bf9747f75c8fa9e1cd3458e881a87ff.js",
+    "service-worker.js": "/family-tree/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/family-tree/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ffbbcee1.chunk.css.map": "/family-tree/static/css/main.ffbbcee1.chunk.css.map",
+    "static/js/2.17b89c8a.chunk.js.LICENSE.txt": "/family-tree/static/js/2.17b89c8a.chunk.js.LICENSE.txt",
+    "static/media/Bhavik Singhal.JPG": "/family-tree/static/media/Bhavik Singhal.3e9b874b.JPG",
+    "static/media/D.K. Goyal & Santosh Goyal.JPG": "/family-tree/static/media/D.K. Goyal & Santosh Goyal.331e7211.JPG",
+    "static/media/Deepak Goyal & Suman Goyal.JPG": "/family-tree/static/media/Deepak Goyal & Suman Goyal.612fde89.JPG",
+    "static/media/Divyam Goyal.JPG": "/family-tree/static/media/Divyam Goyal.3a20d877.JPG",
+    "static/media/Ishita Singhal.JPG": "/family-tree/static/media/Ishita Singhal.ce5a80dc.JPG",
+    "static/media/Neha Mohta & Navneet Mohta.JPG": "/family-tree/static/media/Neha Mohta & Navneet Mohta.dbc195b1.JPG",
+    "static/media/Nisha Mittal & Gopal Mittal.JPG": "/family-tree/static/media/Nisha Mittal & Gopal Mittal.5d96b8d4.JPG",
+    "static/media/Ritu Singhal & Vivek Singhal.JPG": "/family-tree/static/media/Ritu Singhal & Vivek Singhal.6fc03224.JPG",
+    "static/media/Samarth Goyal.JPG": "/family-tree/static/media/Samarth Goyal.740a9ac0.JPG",
+    "static/media/Sandeep Goyal & Sangeeta Goyal.JPG": "/family-tree/static/media/Sandeep Goyal & Sangeeta Goyal.7fecea50.JPG",
+    "static/media/Sanjay Goyal & Shalu Goyal.JPG": "/family-tree/static/media/Sanjay Goyal & Shalu Goyal.f89b3e66.JPG",
+    "static/media/Sanyam Mittal & Kritika Mittal.JPG": "/family-tree/static/media/Sanyam Mittal & Kritika Mittal.f2881e5a.JPG",
+    "static/media/Shantam Goyal.JPG": "/family-tree/static/media/Shantam Goyal.6b4ee617.JPG",
+    "static/media/Shivam Goyal.JPG": "/family-tree/static/media/Shivam Goyal.85a66fea.JPG",
+    "static/media/Shrey Goyal.JPG": "/family-tree/static/media/Shrey Goyal.8d2ce461.JPG",
+    "static/media/Suhaani Goyal.JPG": "/family-tree/static/media/Suhaani Goyal.e0d017db.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.336650e1.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.17b89c8a.chunk.js",
+    "static/css/main.ffbbcee1.chunk.css",
+    "static/js/main.5639fa1d.chunk.js"
+  ]
+}
